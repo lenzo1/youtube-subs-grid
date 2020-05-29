@@ -5,7 +5,7 @@ YTG.history = (function (YTG, history) {
 	// We don't have unlimited storage
 	// so there needs to be a limit on
 	// how big this history is.
-	history.maxVideoHistorySyncSlabSize = 200;
+	history.maxVideoHistorySyncSlabSize = 190;
 	history.maxVideoHistorySyncSlabs = 10;
 	history.maxVideoHistoryCount = 5000;
 
